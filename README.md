@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, Css, Javascript, MySQL, Nodejs**
 
-- - 🌱 I am currently learning **how to build web pages.**
+- 🌱 I am currently learning **how to build web pages.**
 
 - I have a great interest in creating web pages so I am going to learn **Nodejs**
 
