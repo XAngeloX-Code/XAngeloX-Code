@@ -97,7 +97,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/angelo-ernesto-flores-molero-6541572aa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/angelo.floresmolero/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="facebook" height="50" width="50" /></a>
+<a href="https://www.facebook.com/angelo.floresmolero/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png" alt="facebook" height="50" width="50" /></a>
 </p>
 
 
